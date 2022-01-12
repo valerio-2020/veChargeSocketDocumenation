@@ -2,11 +2,10 @@
 
 ## Installation ( Important )
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install socket.
-Make sure you install only the version provided below, else the connection will not work properly.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install latest version of python-socketio i.e v5.
 
 ```bash
-pip install python-socketio==4.6.1
+pip install python-socketio
 ```
 
 Its needs to have the "Requests" installed to work
